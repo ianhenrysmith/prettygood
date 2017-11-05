@@ -1,0 +1,10 @@
+{
+  "name": "prettygood",
+  "version": "1.0.0",
+  "description": "a pretty good gift idea site",
+  "main": "index.js",
+  "repository": "https://github.com/ianisborn/prettygood.git",
+  "author": "ian and blake",
+  "license": "MIT",
+  "private": false
+}
