@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "smoo",
+      "price": 199.99,
+      "thumbnail_url": "some_aws_url",
+      "amazon_url": "some_amazon_url",
+      "tags": ["outdoors", "tech", "apparel"],
+      "age_range_lower": 14,
+      "age_range_upper": 80
+    }
+    // ...
+  ]
+}
